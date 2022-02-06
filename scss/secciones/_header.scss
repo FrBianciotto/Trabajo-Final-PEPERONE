@@ -1,0 +1,33 @@
+.header {
+    background-color: #c3b091;
+    width: 100%;
+
+    .logo {
+        width: 60px;
+        height: auto;
+        margin: 10px;
+    }
+
+    .titulo {
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+        font-size: 25px;
+    }
+    
+    .navImg {
+        height: 30px;
+    }
+
+    .nav-link {
+        transition: none;
+    }
+
+    .nav-link:hover {
+        color: black;
+    }
+
+    .navbar-nav a {
+        color: #8e806a;
+    }
+}

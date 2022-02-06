@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Imports*/
+@import "./secciones/body";
+@import "./secciones/header";
+@import "./secciones/footer";
+@import "./secciones/index";

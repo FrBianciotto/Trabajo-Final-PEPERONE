@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+/*Imports*/
+.body {
+  background-color: #fff3de;
+  font-family: sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column; }
+
+.header {
+  background-color: #c3b091;
+  width: 100%; }
+  .header .logo {
+    width: 60px;
+    height: auto;
+    margin: 10px; }
+  .header .titulo {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 25px; }
+  .header .navImg {
+    height: 30px; }
+  .header .nav-link {
+    transition: none; }
+  .header .nav-link:hover {
+    color: black; }
+  .header .navbar-nav a {
+    color: #8e806a; }
+
+.myFooter {
+  min-width: 100%;
+  background-color: #8e806a; }
+  .myFooter .redes div i {
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.746); }
+
+.nosotros {
+  margin: 20px;
+  display: block;
+  background-color: #C3B091;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #c3b091a6; }
