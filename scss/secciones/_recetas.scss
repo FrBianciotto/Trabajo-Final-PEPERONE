@@ -1,0 +1,12 @@
+.recetas{
+    padding: 10px;
+    img{
+        height: 400px;
+        width: auto;
+    }
+}
+@media (max-width:430px) {
+    .recetas img {
+       height: auto;
+    }
+}

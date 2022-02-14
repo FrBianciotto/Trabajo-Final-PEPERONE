@@ -1,0 +1,12 @@
+$colorRedes: (
+    fb: #3b5998,
+    insta: #c13584,
+    wpp: #25d366,
+);
+
+@each $red, $color in $colorRedes {
+    .#{$red}{
+        color: $color;
+        font-size: 50px;
+    }
+}

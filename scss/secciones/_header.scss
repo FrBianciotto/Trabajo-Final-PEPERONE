@@ -1,5 +1,5 @@
 .header {
-    background-color: #c3b091;
+    background-color: $header;
     width: 100%;
 
     .logo {
@@ -9,10 +9,12 @@
     }
 
     .titulo {
+        h1{
         text-decoration: none;
         color: black;
         font-weight: bold;
         font-size: 25px;
+        }
     }
     
     .navImg {
@@ -28,6 +30,6 @@
     }
 
     .navbar-nav a {
-        color: #8e806a;
+        color: $footer;
     }
 }

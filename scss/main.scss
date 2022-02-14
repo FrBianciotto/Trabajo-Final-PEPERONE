@@ -4,8 +4,18 @@
     box-sizing: border-box;
 }
 
-/*Imports*/
+//Variables
+@import "./variables/colores";
+@import "./variables/mixin";
+@import "./variables/maps";
+//Imports
 @import "./secciones/body";
 @import "./secciones/header";
 @import "./secciones/footer";
 @import "./secciones/index";
+@import "./secciones/mainSecciones";
+@import "./secciones/productos";
+@import "./secciones/promociones";
+@import "./secciones/recetas";
+@import "./secciones/contacto";
+

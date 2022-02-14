@@ -1,0 +1,16 @@
+Agregue SEO a todo mi proyecto con las siguientes características
+-cambio de idioma, de en a es
+-agregado de palabras claves mediante la etiqueta meta name keywords:
+	index: content="peperone, salumeria, fiambres, picadas, artesanal, casero, comidas, conserva, escabeche"
+	productos:"peperone, productos, fiambres, salumeria, conserva, escabeche, lomito, Solomillo, tomate ahumado"
+	promociones:"ofertas, promociones, picadas, combos, sales saborizadas, delicatesen"
+	recetas:"recetas, Tallarines, Carpaccio, Saltimbocca, Crujiente de Jamon Crudo, Jamon Crudo, Bresaola"
+	contacto:"peperone, venta, revender, Contactenos, salumeria"
+-agregado de descripcion mediante la etiqueta meta name description:
+	index: content="Produccion artesanal de fiambres, escabeches y conservas"
+	productos:"Fiambres artesanales, escabeches y conservas"
+	promociones:"Promociones, picadas y box armados para compartir y regalar"
+	recetas:"Ideas de recetas para hacer con nuestros productos"
+	contacto:"Contactenos para revender nuestros productos"
+-Modificación los titulos de las páginas, agregando el nombre de cada sección
+-Acomodo de etiquetas h
